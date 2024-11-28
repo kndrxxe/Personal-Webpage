@@ -1,9 +1,9 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
 
 body {
   margin: 0;
-  font-family: 'Poppins', sans-serif;
-  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl7M60GmqAlIYVKB9Ikxgfe-nv88cACb6KNg&usqp=CAU');
+  font-family: "Poppins", sans-serif;
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl7M60GmqAlIYVKB9Ikxgfe-nv88cACb6KNg&usqp=CAU");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: 100% 100%;
@@ -33,7 +33,6 @@ body {
   color: black;
   border-radius: 10px;
   transition-duration: 0.4s;
-
 }
 
 .topbar a.active {
@@ -92,7 +91,7 @@ body {
 
 .content {
   padding: 50px;
-  background-image: url('https://static.vecteezy.com/system/resources/previews/002/211/713/large_2x/black-shutter-aperture-with-white-outline-vector.jpg');
+  background-image: url("https://static.vecteezy.com/system/resources/previews/002/211/713/large_2x/black-shutter-aperture-with-white-outline-vector.jpg");
   background-repeat: no-repeat;
   background-size: 100% 100%;
   color: white;
@@ -198,7 +197,7 @@ div.desc {
 
 @media only screen and (max-width: 500px) {
   .responsive {
-        width: 100%;
+    width: 100%;
   }
 }
 
